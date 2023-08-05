@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "http://express-async-handler",
+            "request": "launch",
+            "url": "http://express-async-handler"
+        }
+    ]
+}
